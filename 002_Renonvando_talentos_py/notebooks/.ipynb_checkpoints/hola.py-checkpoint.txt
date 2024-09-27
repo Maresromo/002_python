@@ -1,0 +1,3 @@
+print("Hola peluche")
+for i in range(19):
+    print(i)
